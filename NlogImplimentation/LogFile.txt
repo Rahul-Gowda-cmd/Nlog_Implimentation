@@ -1,0 +1,2 @@
+﻿2021-08-10 11:32:43.5088|DEBUG|NlogImplimentation.NlogC|Debug Successfull
+2021-08-10 12:13:37.2693|DEBUG|NlogImplimentation.NlogC|Debug Successfull
